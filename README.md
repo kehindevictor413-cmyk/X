@@ -1,5 +1,4 @@
-# X
-Read  and give Ideas 
+#X
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,7 +69,6 @@ Read  and give Ideas
     </footer>
 
     <script src="script.js"></script>
-</body>
 body {
     margin: 0;
     font-family: 'Inter', sans-serif;
@@ -251,4 +249,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+</body>
 </html>
